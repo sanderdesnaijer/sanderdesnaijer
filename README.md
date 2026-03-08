@@ -15,8 +15,8 @@ I work at the intersection of web technology and physical making: browser games 
 |---|---|---|
 | 🎮 [Pug's Hunt](https://pugshunt.com) | Webcam-controlled Duck Hunt with hand tracking | Next.js · MediaPipe · TypeScript |
 | 🧻 [Toilet Paper Simulator](https://www.sanderdesnaijer.com/projects/3d-toilet-paper-roll-simulator-with-real-thermal-printing) | Three.js physics + real thermal printer output | Three.js · WebGL · React |
-| 🍫 Chocolate Bar Generator | 3D printed molds from custom logos | 3D printing · CAD |
-| ⏰ Arduino Word Clock | Custom hardware display + 3D printed case | Arduino · C++ · 3D printing |
+| 🗂 [Portfolio](https://github.com/sanderdesnaijer/portfolio) | Source for sanderdesnaijer.com — a Next.js portfolio with blog & projects | Next.js · TypeScript · Tailwind |
+| ⏰ Arduino Word Clock · [firmware](https://github.com/sanderdesnaijer/arduino-dutch-wordclock) · [prototype](https://github.com/sanderdesnaijer/typescript-dutch-wordclock) | Custom hardware display + 3D printed case | Arduino · C++ · 3D printing |
 
 ---
 
