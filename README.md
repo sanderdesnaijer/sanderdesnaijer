@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Sander 👋
 
-<!--
-**sanderdesnaijer/sanderdesnaijer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative developer blending code, hardware, and experiments.
 
-Here are some ideas to get you started:
+I build:
+• Web experiments (Three.js / WebGL)
+• Interactive browser games
+• Creative 3D printing projects
+• Mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Portfolio: https://www.sanderdesnaijer.com  
+🎮 Latest project: https://pugshunt.com  
+
+---
+
+## Featured Projects
+
+🎮 Pug's Hunt  
+Webcam-controlled Duck Hunt with hand tracking
+
+🧻 Toilet Paper Simulator  
+Three.js physics + real thermal printer
+
+🍫 Custom Chocolate Bar Generator  
+3D printed molds with logo
+
+⏰ Arduino Word Clock  
+Custom hardware + 3D printed case
+
+---
+
+## Tech I Use
+
+Typescript  
+Next.js  
+Three.js  
+Flutter  
+Arduino  
+Playwright  
+Tailwind
+C++
+C#
+Javascript
+---
+
+## Current Experiments
+
+• Webcam-controlled browser games  
+• WebGL interactive experiments  
+• Physical hardware connected to the browser
