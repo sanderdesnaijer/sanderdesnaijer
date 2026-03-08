@@ -1,50 +1,65 @@
 # Hi, I'm Sander 👋
 
-Creative developer blending code, hardware, and experiments.
+**Creative developer at [KNMI](https://www.knmi.nl)** — blending code, hardware, and experiments to build things that shouldn't exist but do.
 
-I build:
-• Web experiments (Three.js / WebGL)
-• Interactive browser games
-• Creative 3D printing projects
-• Mobile apps
+I work at the intersection of web technology and physical making: browser games you control with your hands, 3D printed objects with embedded logic, and interactive WebGL experiments.
 
-🌍 Portfolio: https://www.sanderdesnaijer.com  
-🎮 Latest project: https://pugshunt.com  
+🌍 **Portfolio:** [sanderdesnaijer.com](https://www.sanderdesnaijer.com)  
+📍 Maasdam, Netherlands
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-🎮 Pug's Hunt  
-Webcam-controlled Duck Hunt with hand tracking
-
-🧻 Toilet Paper Simulator  
-Three.js physics + real thermal printer
-
-🍫 Custom Chocolate Bar Generator  
-3D printed molds with logo
-
-⏰ Arduino Word Clock  
-Custom hardware + 3D printed case
+| Project | Description | Tech |
+|---|---|---|
+| 🎮 [Pug's Hunt](https://pugshunt.com) | Webcam-controlled Duck Hunt with hand tracking | Next.js · MediaPipe · TypeScript |
+| 🧻 [Toilet Paper Simulator](https://www.sanderdesnaijer.com/projects/3d-toilet-paper-roll-simulator-with-real-thermal-printing) | Three.js physics + real thermal printer output | Three.js · WebGL · React |
+| 🍫 Chocolate Bar Generator | 3D printed molds from custom logos | 3D printing · CAD |
+| ⏰ Arduino Word Clock | Custom hardware display + 3D printed case | Arduino · C++ · 3D printing |
 
 ---
 
-## Tech I Use
+## 🛠 Tech Stack
 
-Typescript  
-Next.js  
-Three.js  
-Flutter  
-Arduino  
-Playwright  
-Tailwind
-C++
-C#
-Javascript
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Mobile & Hardware**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Testing & Tooling**  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
 ---
 
-## Current Experiments
+## 📊 GitHub Stats
 
-• Webcam-controlled browser games  
-• WebGL interactive experiments  
-• Physical hardware connected to the browser
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanderdesnaijer&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanderdesnaijer&layout=compact&hide_border=true&theme=default" height="150" />
+</p>
+
+---
+
+## 🔭 Currently Exploring
+
+- Webcam & gesture-controlled browser games
+- WebGL / Three.js interactive experiments  
+- Connecting physical hardware (Arduino, thermal printers) to the browser
+- 3D printing: functional parts, molds, wearables
+
+---
+
+## 📬 Get in Touch
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanderdesnaijer.com-black?style=flat)](https://www.sanderdesnaijer.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanderdesnaijer-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanderdesnaijer)
+[![X](https://img.shields.io/badge/X-@sanderdesnaijer-000000?style=flat&logo=x&logoColor=white)](https://x.com/sanderdesnaijer)
+[![Medium](https://img.shields.io/badge/Medium-@sanderdesnaijer-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sanderdesnaijer)
