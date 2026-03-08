@@ -39,15 +39,6 @@ I work at the intersection of web technology and physical making: browser games 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanderdesnaijer&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanderdesnaijer&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
----
-
 ## 🔭 Currently Exploring
 
 - Webcam & gesture-controlled browser games
