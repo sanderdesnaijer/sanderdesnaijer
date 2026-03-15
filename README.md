@@ -11,12 +11,13 @@ I work at the intersection of web technology and physical making: browser games 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🎮 [Pug's Hunt](https://pugshunt.com) | Webcam-controlled Duck Hunt with hand tracking | Next.js · MediaPipe · TypeScript |
-| 🧻 [Toilet Paper Simulator](https://www.sanderdesnaijer.com/projects/3d-toilet-paper-roll-simulator-with-real-thermal-printing) | Three.js physics + real thermal printer output | Three.js · WebGL · React |
-| 🗂 [Portfolio](https://github.com/sanderdesnaijer/portfolio) | Source for sanderdesnaijer.com — a Next.js portfolio with blog & projects | Next.js · TypeScript · Tailwind |
-| ⏰ Arduino Word Clock · [firmware](https://github.com/sanderdesnaijer/arduino-dutch-wordclock) · [prototype](https://github.com/sanderdesnaijer/typescript-dutch-wordclock) | Custom hardware display + 3D printed case | Arduino · C++ · 3D printing |
+| Project                                                                                                                                                                    | Description                                                               | Tech                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------- |
+| 🧩 [Eyebrow Tetris](https://eyebrow-tetris.sanderdesnaijer.com)                                                                                                            | Tetris controlled with your eyebrows and mouth via webcam face tracking   | Next.js · MediaPipe · TypeScript |
+| 🎮 [Pug's Hunt](https://pugshunt.com)                                                                                                                                      | Webcam-controlled Duck Hunt with hand tracking                            | Next.js · MediaPipe · TypeScript |
+| 🧻 [Toilet Paper Simulator](https://www.sanderdesnaijer.com/projects/3d-toilet-paper-roll-simulator-with-real-thermal-printing)                                            | Three.js physics + real thermal printer output                            | Three.js · WebGL · React         |
+| 🗂 [Portfolio](https://github.com/sanderdesnaijer/portfolio)                                                                                                               | Source for sanderdesnaijer.com — a Next.js portfolio with blog & projects | Next.js · TypeScript · Tailwind  |
+| ⏰ Arduino Word Clock · [firmware](https://github.com/sanderdesnaijer/arduino-dutch-wordclock) · [prototype](https://github.com/sanderdesnaijer/typescript-dutch-wordclock) | Custom hardware display + 3D printed case                                 | Arduino · C++ · 3D printing      |
 
 ---
 
