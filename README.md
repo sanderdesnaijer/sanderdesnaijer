@@ -14,7 +14,7 @@ I work at the intersection of web technology and physical making: browser games 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | 🗺 [Map Gesture Controls](https://sanderdesnaijer.github.io/map-gesture-controls/) · [repo](https://github.com/sanderdesnaijer/map-gesture-controls) | Hand gesture controls for OpenLayers, Google Maps, and Leaflet. Pan with a fist, zoom with two open palms. Runs entirely in the browser, no backend required | OpenLayers · Google Maps · Leaflet · MediaPipe · TypeScript |
-| 📡 [ESP32 OLED Hand Tracker](https://github.com/sanderdesnaijer/esp32-mini-oled-webcam-stream-mediapipe) | Stream webcam hand tracking data to an ESP32 Mini OLED display via MediaPipe and Arduino | ESP32 · Arduino · MediaPipe · C++ |
+| 📡 [ESP32 OLED Webcam Stream](https://github.com/sanderdesnaijer/esp32-mini-oled-webcam-stream-mediapipe) | Stream Webcam data to an ESP32 Mini OLED display via MediaPipe and Arduino | ESP32 · Arduino · MediaPipe · C++ |
 | 🧩 [Eyebrow Tetris](https://eyebrow-tetris.sanderdesnaijer.com) | Tetris controlled with your eyebrows and mouth via webcam face tracking | Next.js · MediaPipe · TypeScript |
 | 🎮 [Pug's Hunt](https://pugshunt.com) | Webcam-controlled Duck Hunt with hand tracking | Next.js · MediaPipe · TypeScript |
 | 🧻 [Toilet Paper Simulator](https://www.sanderdesnaijer.com/projects/3d-toilet-paper-roll-simulator-with-real-thermal-printing) | Three.js physics + real thermal printer output | Three.js · WebGL · React |
