@@ -13,6 +13,7 @@ I work at the intersection of web technology and physical making: browser games 
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
+| 🕹 [ESP32 Pinball](https://www.sanderdesnaijer.com/projects/esp32-pinball) · [repo](https://github.com/sanderdesnaijer/esp32-pinball) · [video](https://www.youtube.com/watch?v=_fYJRqrt3yo) | Pinball game with capacitive touch flippers on a 128x64 OLED, housed in a cigarette case | ESP32 · C++ · SSD1306 · PlatformIO |
 | 🗺 [Map Gesture Controls](https://sanderdesnaijer.github.io/map-gesture-controls/) · [repo](https://github.com/sanderdesnaijer/map-gesture-controls) | Hand gesture controls for OpenLayers, Google Maps, and Leaflet. Pan with a fist, zoom with two open palms. Runs entirely in the browser, no backend required | OpenLayers · Google Maps · Leaflet · MediaPipe · TypeScript |
 | 🧠 [Face Landmarker Explorer](https://demos.sanderdesnaijer.com/demos/face-mesh-explorer) · [blog post](https://www.sanderdesnaijer.com/blog/mediapipe-face-mesh-landmarks) | Interactive tool for exploring all 478 MediaPipe face mesh landmarks, blendshapes, and transformation matrices in real time | MediaPipe · Next.js · TypeScript |
 | 📡 [ESP32 OLED Webcam Stream](https://github.com/sanderdesnaijer/esp32-mini-oled-webcam-stream-mediapipe) | Stream webcam data to an ESP32 Mini OLED display via MediaPipe and Arduino | ESP32 · Arduino · MediaPipe · C++ |
